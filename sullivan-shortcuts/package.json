@@ -1,6 +1,11 @@
 {
   "name": "sullivan-shortcuts",
   "displayName": "Sullivan's Shortcuts",
+  "publisher": "SullivanXiong",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SullivanXiong/VSCode-Extension.git"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
